@@ -1,2 +1,2 @@
 # Finden
-Tumaris.Hack 2022 | Deep Tech
+Tumaris.Hack 2022|Deep Tech
